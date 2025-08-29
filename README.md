@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Experienced Android Developer with background in the industry<br>📚 Pursuing a Master’s Degree in Cybersecurity and Distributed Systems<br>🏆 Recipient of the Android Developer FCE Innovation Award 2022, presented by Faurecia Clarion Electronics<br>📢 Certified C1 Advanced (CAE) by Cambridge University Press & Assessment English<br>🎲 Passionate about programming, music, movies, mathematics, and physics</p>
+<p align="left">✨ Experienced Android Developer with background in the industry<br>📚 Master’s Degree in Cybersecurity and Distributed Systems<br>🏆 Recipient of the Android Developer FCE Innovation Award 2022, presented by Faurecia Clarion Electronics<br>📢 Certified C1 Advanced (CAE) by Cambridge University Press & Assessment English<br>🎲 Passionate about programming, music, movies, mathematics, and physics</p>
 
 ###
 
